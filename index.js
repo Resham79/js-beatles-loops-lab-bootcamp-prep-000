@@ -17,5 +17,5 @@ function johnLennonFacts() {
     count++;
   }
   return results;
-}
+
 }
